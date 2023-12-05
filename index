@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>htmlの書き方</title>
+</head>
+<body>
+<h1>書き方</h1>
+<h2>はじまる</h2>
+<p>簡単に書けるのは魅力的！</p>
+<a href="https://google.com">
+ここを押すとグーグルが開ける
+</a>
+<ul>
+<li>これは</li>
+<li>箇条書き</li>
+<li>ですか？</li>
+</ui>
+<p>すきな<br>ところで<br>改行<br>できちゃう</p>
+<p>ななめにもできる<em>html</em>ってすごいね</p>
+<p><strong>太い!</strong></p>
+<p><big>大きい！</big></p>
+<p><small>小さい！</small></p>
+<p><u>下に線が引けるっていう噂</u></p>
+<p><s>間違えたときはこの線</s></p>
+<p><center>真ん中だ</center></p>
+<p><span style="background-color:123456>この色は何色？</span><p>
+</body>
+</html>
